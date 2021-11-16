@@ -1,0 +1,11 @@
+HyérText Markup Language
+EL objetivo es interconectat textos, paginas conectadas a otras paginas,Textos que estan 
+conectados de la web
+
+Lenguaje de etiquetas,TAGS, palabras claves que el lenguaje necesita.
+The language to make websites, web pages
+
+Standars, es multiplataforma es un estandar para cualquier sistema operativo y plataforma.
+HTML,CSS,Java Scrip(lenguaje de programacion para el navegador).
+
+The Standard is managed by W3c
